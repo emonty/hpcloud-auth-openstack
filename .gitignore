@@ -1,0 +1,12 @@
+.coverage
+.venv
+.tox
+*,cover
+cover
+*.pyc
+.idea
+*.swp
+*~
+build
+dist
+hpcloud_auth_openstack.egg-info
